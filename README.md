@@ -4,7 +4,7 @@
 2. code (scraping and processing via Python and Stata 17)
 
 # data files: 
-.xlsx files after Python and Excel cleaning/.dta files after Stata processing
+the first part (1-3).xlsx files after Python and Excel cleaning /// second part (4-6) .dta files after Stata processing
 
 1. London-flat.xlsx
 2. London-terrace.xlsx
