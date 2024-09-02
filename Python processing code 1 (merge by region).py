@@ -1,7 +1,6 @@
 import os
 import pandas as pd
 
-# 设置文件路径
 folder_path = 'D:\\7月21数据\\Flat\\'
 files = os.listdir(folder_path)
 # Detached is 'D:\\7月21数据\\Detached\\'
