@@ -4,11 +4,11 @@
 2. code (scraping and processing via Python and Stata 17)
 
 # data files: 
-.xlsx files after Python and Excel cleaning
+# .xlsx files after Python and Excel cleaning
 1. London-flat.xlsx
 2. London-terrace.xlsx
 3. London-detached.xlsx
-.dta files after Stata processing
+# .dta files after Stata processing
 4. London-flat-proceed.dta
 5. London-terrace-proceed.dta
 6. London-detached-proceed.dta
